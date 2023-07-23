@@ -2,7 +2,7 @@
 { "storeHouse": [ 
 
 {"sourceName":"本地收集","sourceUrl":"clan://localhost/tvboxhh/local.json"},
-{"sourceName":"在线收集","sourceUrl":"clan://localhost/tvboxhh/online.json"},
+{"sourceName":"在线收集","sourceUrl":"https://ghproxy.com/https://github.com/vpntemp11/box/blob/main/online.json"},
 {"sourceName":"🌸自用仓库","sourceUrl":"https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json" },
 {"sourceName":"🧡多线接口","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/duo.json"},
 {"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
